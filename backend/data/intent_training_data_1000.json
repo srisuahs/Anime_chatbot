@@ -1,0 +1,4002 @@
+[
+  {
+    "text": "Can you recommend anime",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What anime should I watch",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Suggest me some good anime",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "I need anime recommendations",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What's a good anime to watch",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Give me recommendations",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Find me anime similar to this",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What anime should I try next",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Recommend something for me",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What are your anime suggestions",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "I'm looking for new anime",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Show me popular anime",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What should I add to my list",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Suggest anime with action",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Find romance anime for me",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "I want comedy recommendations",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Show me adventure anime",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Give me thriller suggestions",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What anime do you suggest",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "I need something to watch",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Recommend good series",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What's worth watching",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Can you suggest something",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Show me top rated anime",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What anime would you recommend",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "I'm bored, recommend anime",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Give me anime ideas",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What should I start",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Show me best anime",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Recommend anime like Death Note",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Show me anime similar to Naruto",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Find anime like Attack on Titan",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What's similar to this anime",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Recommend based on my list",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Show me underrated anime",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What hidden gems do you know",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Suggest award-winning anime",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Show me critically acclaimed series",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What anime won awards",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Recommend ongoing anime",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Show me completed series",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What's a must-watch anime",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Show me iconic series",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What's trending in anime",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Show me seasonal anime",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Recommend anime for me",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What do you think I should watch",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Show me new releases",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What anime just came out",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Recommend highly rated anime",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Show me anime with 8+ rating",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What has best reviews",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Suggest anime with romance",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Show me anime with action and drama",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Find anime with supernatural elements",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What anime has good plot",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Show me anime with twist",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Recommend psychological anime",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What anime is mind-bending",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Suggest anime with slice of life",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Show me school anime",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Recommend anime for beginners",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What anime should I start with",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Suggest anime for casual viewers",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Show me accessible anime",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What's easy to follow",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Recommend anime with good art",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Show me visually stunning anime",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What anime looks great",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Suggest anime with amazing soundtrack",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Show me anime with good music",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What anime has best opening",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Recommend anime with deep story",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Show me thought-provoking anime",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What anime makes you think",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Suggest anime that's emotional",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Show me anime that hits hard",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What anime is touching",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Recommend anime for discussion",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Show me unique anime",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What anime is different",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Suggest unconventional anime",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Show me genre-bending series",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What anime breaks conventions",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Recommend anime I haven't seen",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Show me fresh recommendations",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What anime is unknown",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Suggest obscure series",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Show me niche anime",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What anime would surprise me",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Recommend beyond mainstream",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Show me indie anime",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What animation studios are good",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Suggest anime by favorite studio",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Show me anime by director",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What anime is by famous creator",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Recommend anime with best cast",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Show me anime with great voice acting",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What anime has good characters",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "Suggest anime with development",
+    "label": "get_recommendation"
+  },
+  {
+    "text": "What's the rating of Attack on Titan",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "How good is Death Note",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "What's the score of Naruto",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Check the rating for this anime",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "How is this anime rated",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Tell me the rating",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "What's the mean score",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Is this anime highly rated",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "How many stars does this have",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "What rating is Bleach",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Show me the rating",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "What score does this have",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "How is it rated",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "What's the popularity",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Tell me about rating",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Check rating for anime",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "What's the score",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "How good is it",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Rate this anime",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "What's the rating",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Show anime score",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "How is anime scored",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "What rating do you give",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Tell me score",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Give me rating",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "How many points",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "What's score for Demon Slayer",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Rate Jujutsu Kaisen",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Score for One Piece",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Rating of Steins Gate",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Points for Code Geass",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "How good is Fullmetal Alchemist",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Rate Cowboy Bebop",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Score for Neon Genesis Evangelion",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "What's Mob Psycho 100 rated",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Rating of Parasyte",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "How about Ergo Proxy",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Rate Psycho-Pass",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Score for Akira",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "What's Monster rated",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Rating of Vinland Saga",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "How good is Tower of God",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Rate Solo Leveling",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Score for Spy x Family",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "What's Chainsaw Man rated",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Rating of My Hero Academia",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "How good is Re:Zero",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Rate Overlord",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Score for Slime",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "What's Sword Art Online rated",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Rating of .hack series",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "How good is Log Horizon",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Rate Ghost in the Shell",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Score for Paprika",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "What's Garden of Words rated",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Rating of Your Name",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "How good is Weathering with You",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Rate A Silent Voice",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Score for 5 Centimeters",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "What's Spirited Away rated",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Rating of Howl's Moving Castle",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "How good is Nausicaa",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Rate Kiki's Delivery Service",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Score for Laputa",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "What's Ponyo rated",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Rating of The Wind Rises",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "How good is Perfect Blue",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Rate Millennium Actress",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Score for Tokyo Godfathers",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "What's Paprika rated",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Rating of Inception",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "How is this score",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "What ranking does it have",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Tell me its rating now",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "How many ratings total",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "What's average score",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Show me score details",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Rate each aspect",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Break down the rating",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Explain the score",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Tell score breakdown",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Why is it rated high",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Is rating accurate",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Do you agree with rating",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "What would you rate it",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Is it worth watching based on rating",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Should I watch based on score",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Is rating reliable",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Can I trust this rating",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "How accurate is score",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "What makes good rating",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "How are ratings calculated",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Who rates these",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "How many people voted",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "What's the voting system",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Show me the score",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "What's the MAL score",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "How highly rated",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Popular anime",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Check MAL score",
+    "label": "check_anime_rating"
+  },
+  {
+    "text": "Compare Attack on Titan and Death Note",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which is better Naruto or One Piece",
+    "label": "compare_anime"
+  },
+  {
+    "text": "What's the difference between these anime",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which anime should I choose",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare these two shows for me",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Is Bleach better than Naruto",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Tell me how these compare",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which is the better anime",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Comparing anime A and anime B",
+    "label": "compare_anime"
+  },
+  {
+    "text": "What's the difference between these",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Versus which should I watch",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare ratings",
+    "label": "compare_anime"
+  },
+  {
+    "text": "What's better quality",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which has better story",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare plot quality",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which has better characters",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare character development",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which is more engaging",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare visuals",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which looks better",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare animation quality",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which anime is funnier",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare humor",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which has more action",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare action sequences",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which is more emotional",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare emotional impact",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which is scarier",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare horror elements",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which is more romantic",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare romance",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which is longer",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare episode count",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which finished",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare airing status",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which is ongoing",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare release dates",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which came first",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare era",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which is older",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare age",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which studio made it",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare studios",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which director is better",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare creators",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which mangaka wrote it",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare source material",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which adapted better",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare adaptation quality",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which follows manga",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare fidelity",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which has better soundtrack",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare music",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which has better opening",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare OPs and EDs",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which has better ending",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare voice acting",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which has better dub",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare English version",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which has better sub",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare subtitles",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which is more mainstream",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare popularity",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which is more known",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare recognition",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which is more acclaimed",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare critical reception",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which won more awards",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare awards",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which is more recommended",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare user ratings",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which scores higher",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare scores",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which is more complete",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare completeness",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which concluded well",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare endings",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which has better finale",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare final episodes",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which left better impression",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare legacy",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which is more influential",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare impact",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which started trend",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare innovation",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which is more unique",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare originality",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which is more derivative",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare similarity to others",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which stands out",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare distinctiveness",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which is more accessible",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare ease of entry",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which is easier to follow",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare complexity",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which requires less thinking",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare difficulty",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which has more seasons",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Compare sequels",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Which has more content",
+    "label": "compare_anime"
+  },
+  {
+    "text": "Find Attack on Titan",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search for Death Note",
+    "label": "search_anime"
+  },
+  {
+    "text": "Look up Naruto",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find me anime with action",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime by genre",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime like this one",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search for something with robots",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with romance",
+    "label": "search_anime"
+  },
+  {
+    "text": "Look for thriller anime",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search all anime",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime starting with A",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search title",
+    "label": "search_anime"
+  },
+  {
+    "text": "Look for anime by name",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with protagonist",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime with magic",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with superpowers",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime with school",
+    "label": "search_anime"
+  },
+  {
+    "text": "Look for anime with comedy",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with drama",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime with slice of life",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with supernatural",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime with mystery",
+    "label": "search_anime"
+  },
+  {
+    "text": "Look for anime with horror",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with psychological",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime with sports",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with music",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime with art",
+    "label": "search_anime"
+  },
+  {
+    "text": "Look for anime with cooking",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with gaming",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime with isekai",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with time travel",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime with parallel worlds",
+    "label": "search_anime"
+  },
+  {
+    "text": "Look for anime with reincarnation",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with vampires",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime with werewolves",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with demons",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime with angels",
+    "label": "search_anime"
+  },
+  {
+    "text": "Look for anime with gods",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with mythology",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime with history",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with military",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime with police",
+    "label": "search_anime"
+  },
+  {
+    "text": "Look for anime with justice",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with revenge",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime with love triangle",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with forbidden romance",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime with marriage",
+    "label": "search_anime"
+  },
+  {
+    "text": "Look for anime with family",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with friendship",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime with team",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with competition",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime with battle",
+    "label": "search_anime"
+  },
+  {
+    "text": "Look for anime with tournament",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with training",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime with quest",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with adventure",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime with exploration",
+    "label": "search_anime"
+  },
+  {
+    "text": "Look for anime with survival",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with post-apocalyptic",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime with dystopia",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with utopia",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime with fantasy",
+    "label": "search_anime"
+  },
+  {
+    "text": "Look for anime with sci-fi",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with cyberpunk",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime with steampunk",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with medieval",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime set in space",
+    "label": "search_anime"
+  },
+  {
+    "text": "Look for anime on water",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime underground",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime in future",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime in past",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime in present",
+    "label": "search_anime"
+  },
+  {
+    "text": "Look for anime with aliens",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with time loop",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime with amnesia",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with split personality",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime with genius",
+    "label": "search_anime"
+  },
+  {
+    "text": "Look for anime with detectives",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with hackers",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime with spies",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with assassins",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime with pirates",
+    "label": "search_anime"
+  },
+  {
+    "text": "Look for anime with samurai",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with knights",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime with soldiers",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with criminals",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime with prisons",
+    "label": "search_anime"
+  },
+  {
+    "text": "Look for anime with politics",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with rebellion",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime with freedom",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with slavery",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime with war",
+    "label": "search_anime"
+  },
+  {
+    "text": "Look for anime with peace",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with religion",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime with philosophy",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with comedy",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime with slapstick",
+    "label": "search_anime"
+  },
+  {
+    "text": "Look for anime with parody",
+    "label": "search_anime"
+  },
+  {
+    "text": "Find anime with dark humor",
+    "label": "search_anime"
+  },
+  {
+    "text": "Search anime with wholesome",
+    "label": "search_anime"
+  },
+  {
+    "text": "I'm watching Attack on Titan",
+    "label": "set_watching"
+  },
+  {
+    "text": "Mark this as watching",
+    "label": "set_watching"
+  },
+  {
+    "text": "I'm starting Naruto",
+    "label": "set_watching"
+  },
+  {
+    "text": "Add to my watching list",
+    "label": "set_watching"
+  },
+  {
+    "text": "Currently watching Death Note",
+    "label": "set_watching"
+  },
+  {
+    "text": "Set status to watching",
+    "label": "set_watching"
+  },
+  {
+    "text": "I just started this anime",
+    "label": "set_watching"
+  },
+  {
+    "text": "Add this to watching",
+    "label": "set_watching"
+  },
+  {
+    "text": "Mark as watching now",
+    "label": "set_watching"
+  },
+  {
+    "text": "I'm viewing this anime",
+    "label": "set_watching"
+  },
+  {
+    "text": "I began watching",
+    "label": "set_watching"
+  },
+  {
+    "text": "Starting this today",
+    "label": "set_watching"
+  },
+  {
+    "text": "Now watching this",
+    "label": "set_watching"
+  },
+  {
+    "text": "Just started it",
+    "label": "set_watching"
+  },
+  {
+    "text": "Beginning to watch",
+    "label": "set_watching"
+  },
+  {
+    "text": "Commenced watching",
+    "label": "set_watching"
+  },
+  {
+    "text": "Initiated viewing",
+    "label": "set_watching"
+  },
+  {
+    "text": "Put on watching list",
+    "label": "set_watching"
+  },
+  {
+    "text": "Add to watching",
+    "label": "set_watching"
+  },
+  {
+    "text": "Set to watching",
+    "label": "set_watching"
+  },
+  {
+    "text": "Change to watching",
+    "label": "set_watching"
+  },
+  {
+    "text": "Update to watching",
+    "label": "set_watching"
+  },
+  {
+    "text": "Mark watching",
+    "label": "set_watching"
+  },
+  {
+    "text": "Flag as watching",
+    "label": "set_watching"
+  },
+  {
+    "text": "Label watching",
+    "label": "set_watching"
+  },
+  {
+    "text": "Tag watching",
+    "label": "set_watching"
+  },
+  {
+    "text": "I'll be watching this",
+    "label": "set_watching"
+  },
+  {
+    "text": "Plan to watch now",
+    "label": "set_watching"
+  },
+  {
+    "text": "Moving to watching",
+    "label": "set_watching"
+  },
+  {
+    "text": "Shift to watching",
+    "label": "set_watching"
+  },
+  {
+    "text": "Transfer to watching",
+    "label": "set_watching"
+  },
+  {
+    "text": "I'm going to watch",
+    "label": "set_watching"
+  },
+  {
+    "text": "Gonna watch this",
+    "label": "set_watching"
+  },
+  {
+    "text": "Will watch",
+    "label": "set_watching"
+  },
+  {
+    "text": "Planning to view",
+    "label": "set_watching"
+  },
+  {
+    "text": "Intending to watch",
+    "label": "set_watching"
+  },
+  {
+    "text": "I'm about to watch",
+    "label": "set_watching"
+  },
+  {
+    "text": "About to start",
+    "label": "set_watching"
+  },
+  {
+    "text": "Starting soon",
+    "label": "set_watching"
+  },
+  {
+    "text": "Beginning soon",
+    "label": "set_watching"
+  },
+  {
+    "text": "Watching next",
+    "label": "set_watching"
+  },
+  {
+    "text": "This is next",
+    "label": "set_watching"
+  },
+  {
+    "text": "On my schedule",
+    "label": "set_watching"
+  },
+  {
+    "text": "Queued to watch",
+    "label": "set_watching"
+  },
+  {
+    "text": "In my queue",
+    "label": "set_watching"
+  },
+  {
+    "text": "Added to queue",
+    "label": "set_watching"
+  },
+  {
+    "text": "Prioritize this",
+    "label": "set_watching"
+  },
+  {
+    "text": "Watch this first",
+    "label": "set_watching"
+  },
+  {
+    "text": "Binge this",
+    "label": "set_watching"
+  },
+  {
+    "text": "Marathon this",
+    "label": "set_watching"
+  },
+  {
+    "text": "Binge-watching now",
+    "label": "set_watching"
+  },
+  {
+    "text": "Marathoning this",
+    "label": "set_watching"
+  },
+  {
+    "text": "Watching all episodes",
+    "label": "set_watching"
+  },
+  {
+    "text": "Going to watch all",
+    "label": "set_watching"
+  },
+  {
+    "text": "Planning full watch",
+    "label": "set_watching"
+  },
+  {
+    "text": "Full series watch",
+    "label": "set_watching"
+  },
+  {
+    "text": "Complete watch",
+    "label": "set_watching"
+  },
+  {
+    "text": "Watch entire series",
+    "label": "set_watching"
+  },
+  {
+    "text": "Watching from start",
+    "label": "set_watching"
+  },
+  {
+    "text": "Beginning episode one",
+    "label": "set_watching"
+  },
+  {
+    "text": "Starting episode one",
+    "label": "set_watching"
+  },
+  {
+    "text": "From beginning",
+    "label": "set_watching"
+  },
+  {
+    "text": "Watching in order",
+    "label": "set_watching"
+  },
+  {
+    "text": "Proper watch order",
+    "label": "set_watching"
+  },
+  {
+    "text": "Canonical order",
+    "label": "set_watching"
+  },
+  {
+    "text": "Watching properly",
+    "label": "set_watching"
+  },
+  {
+    "text": "Watching right way",
+    "label": "set_watching"
+  },
+  {
+    "text": "Correct sequence",
+    "label": "set_watching"
+  },
+  {
+    "text": "In sequence",
+    "label": "set_watching"
+  },
+  {
+    "text": "Episodic watch",
+    "label": "set_watching"
+  },
+  {
+    "text": "Weekly watch",
+    "label": "set_watching"
+  },
+  {
+    "text": "Episode per day",
+    "label": "set_watching"
+  },
+  {
+    "text": "Slow paced watch",
+    "label": "set_watching"
+  },
+  {
+    "text": "Binge speed",
+    "label": "set_watching"
+  },
+  {
+    "text": "Quick watch",
+    "label": "set_watching"
+  },
+  {
+    "text": "Fast paced",
+    "label": "set_watching"
+  },
+  {
+    "text": "Rush through",
+    "label": "set_watching"
+  },
+  {
+    "text": "Speed watch",
+    "label": "set_watching"
+  },
+  {
+    "text": "Accelerated viewing",
+    "label": "set_watching"
+  },
+  {
+    "text": "I'm into this now",
+    "label": "set_watching"
+  },
+  {
+    "text": "Getting into this",
+    "label": "set_watching"
+  },
+  {
+    "text": "Hooked on this",
+    "label": "set_watching"
+  },
+  {
+    "text": "Can't stop watching",
+    "label": "set_watching"
+  },
+  {
+    "text": "Won't stop watching",
+    "label": "set_watching"
+  },
+  {
+    "text": "Need more episodes",
+    "label": "set_watching"
+  },
+  {
+    "text": "Want more",
+    "label": "set_watching"
+  },
+  {
+    "text": "Give me more",
+    "label": "set_watching"
+  },
+  {
+    "text": "Next episode please",
+    "label": "set_watching"
+  },
+  {
+    "text": "When's next episode",
+    "label": "set_watching"
+  },
+  {
+    "text": "Episode update",
+    "label": "set_watching"
+  },
+  {
+    "text": "New episode",
+    "label": "set_watching"
+  },
+  {
+    "text": "Latest release",
+    "label": "set_watching"
+  },
+  {
+    "text": "Recently aired",
+    "label": "set_watching"
+  },
+  {
+    "text": "Just aired",
+    "label": "set_watching"
+  },
+  {
+    "text": "Fresh episode",
+    "label": "set_watching"
+  },
+  {
+    "text": "New content",
+    "label": "set_watching"
+  },
+  {
+    "text": "Update available",
+    "label": "set_watching"
+  },
+  {
+    "text": "Check for new",
+    "label": "set_watching"
+  },
+  {
+    "text": "Any new episodes",
+    "label": "set_watching"
+  },
+  {
+    "text": "Is it updated",
+    "label": "set_watching"
+  },
+  {
+    "text": "I completed Attack on Titan",
+    "label": "set_completed"
+  },
+  {
+    "text": "I finished Death Note",
+    "label": "set_completed"
+  },
+  {
+    "text": "Mark this as completed",
+    "label": "set_completed"
+  },
+  {
+    "text": "I've finished watching this",
+    "label": "set_completed"
+  },
+  {
+    "text": "Set to completed",
+    "label": "set_completed"
+  },
+  {
+    "text": "I finished Naruto",
+    "label": "set_completed"
+  },
+  {
+    "text": "Mark anime as done",
+    "label": "set_completed"
+  },
+  {
+    "text": "Add to completed list",
+    "label": "set_completed"
+  },
+  {
+    "text": "I watched it completely",
+    "label": "set_completed"
+  },
+  {
+    "text": "This anime is finished",
+    "label": "set_completed"
+  },
+  {
+    "text": "Completed this series",
+    "label": "set_completed"
+  },
+  {
+    "text": "Finished this show",
+    "label": "set_completed"
+  },
+  {
+    "text": "Done with this anime",
+    "label": "set_completed"
+  },
+  {
+    "text": "Finished watching",
+    "label": "set_completed"
+  },
+  {
+    "text": "Watched everything",
+    "label": "set_completed"
+  },
+  {
+    "text": "Seen all episodes",
+    "label": "set_completed"
+  },
+  {
+    "text": "Through entire series",
+    "label": "set_completed"
+  },
+  {
+    "text": "Watched whole thing",
+    "label": "set_completed"
+  },
+  {
+    "text": "Complete series watched",
+    "label": "set_completed"
+  },
+  {
+    "text": "All episodes seen",
+    "label": "set_completed"
+  },
+  {
+    "text": "Nothing left to watch",
+    "label": "set_completed"
+  },
+  {
+    "text": "Caught up",
+    "label": "set_completed"
+  },
+  {
+    "text": "Current with series",
+    "label": "set_completed"
+  },
+  {
+    "text": "Up to date",
+    "label": "set_completed"
+  },
+  {
+    "text": "All caught up",
+    "label": "set_completed"
+  },
+  {
+    "text": "No more episodes",
+    "label": "set_completed"
+  },
+  {
+    "text": "Series ended",
+    "label": "set_completed"
+  },
+  {
+    "text": "Final episode watched",
+    "label": "set_completed"
+  },
+  {
+    "text": "Last episode done",
+    "label": "set_completed"
+  },
+  {
+    "text": "Finished finale",
+    "label": "set_completed"
+  },
+  {
+    "text": "Ending watched",
+    "label": "set_completed"
+  },
+  {
+    "text": "Concluded",
+    "label": "set_completed"
+  },
+  {
+    "text": "Series complete",
+    "label": "set_completed"
+  },
+  {
+    "text": "All done",
+    "label": "set_completed"
+  },
+  {
+    "text": "Finally finished",
+    "label": "set_completed"
+  },
+  {
+    "text": "At last done",
+    "label": "set_completed"
+  },
+  {
+    "text": "Just finished",
+    "label": "set_completed"
+  },
+  {
+    "text": "Wrapped up",
+    "label": "set_completed"
+  },
+  {
+    "text": "Wrapped this up",
+    "label": "set_completed"
+  },
+  {
+    "text": "Finished it",
+    "label": "set_completed"
+  },
+  {
+    "text": "Completed it",
+    "label": "set_completed"
+  },
+  {
+    "text": "Done with it",
+    "label": "set_completed"
+  },
+  {
+    "text": "Over with",
+    "label": "set_completed"
+  },
+  {
+    "text": "Through with",
+    "label": "set_completed"
+  },
+  {
+    "text": "Conclude",
+    "label": "set_completed"
+  },
+  {
+    "text": "Finalize",
+    "label": "set_completed"
+  },
+  {
+    "text": "Mark complete",
+    "label": "set_completed"
+  },
+  {
+    "text": "Set complete",
+    "label": "set_completed"
+  },
+  {
+    "text": "Change to completed",
+    "label": "set_completed"
+  },
+  {
+    "text": "Update to completed",
+    "label": "set_completed"
+  },
+  {
+    "text": "Flag completed",
+    "label": "set_completed"
+  },
+  {
+    "text": "Label completed",
+    "label": "set_completed"
+  },
+  {
+    "text": "Tag completed",
+    "label": "set_completed"
+  },
+  {
+    "text": "I'm done",
+    "label": "set_completed"
+  },
+  {
+    "text": "Watched through",
+    "label": "set_completed"
+  },
+  {
+    "text": "Went through",
+    "label": "set_completed"
+  },
+  {
+    "text": "Made it through",
+    "label": "set_completed"
+  },
+  {
+    "text": "Got through",
+    "label": "set_completed"
+  },
+  {
+    "text": "Survived watching",
+    "label": "set_completed"
+  },
+  {
+    "text": "Endured",
+    "label": "set_completed"
+  },
+  {
+    "text": "Persevered",
+    "label": "set_completed"
+  },
+  {
+    "text": "Stuck with it",
+    "label": "set_completed"
+  },
+  {
+    "text": "Saw it through",
+    "label": "set_completed"
+  },
+  {
+    "text": "Following through",
+    "label": "set_completed"
+  },
+  {
+    "text": "Committed to finish",
+    "label": "set_completed"
+  },
+  {
+    "text": "Finished commitment",
+    "label": "set_completed"
+  },
+  {
+    "text": "Obligation complete",
+    "label": "set_completed"
+  },
+  {
+    "text": "Debt paid",
+    "label": "set_completed"
+  },
+  {
+    "text": "Promise kept",
+    "label": "set_completed"
+  },
+  {
+    "text": "Word made good",
+    "label": "set_completed"
+  },
+  {
+    "text": "Delivered on promise",
+    "label": "set_completed"
+  },
+  {
+    "text": "Followed promise",
+    "label": "set_completed"
+  },
+  {
+    "text": "Honored commitment",
+    "label": "set_completed"
+  },
+  {
+    "text": "Final thoughts coming",
+    "label": "set_completed"
+  },
+  {
+    "text": "Ready for review",
+    "label": "set_completed"
+  },
+  {
+    "text": "Time for rating",
+    "label": "set_completed"
+  },
+  {
+    "text": "Ready to rate",
+    "label": "set_completed"
+  },
+  {
+    "text": "Rate this now",
+    "label": "set_completed"
+  },
+  {
+    "text": "Have opinion",
+    "label": "set_completed"
+  },
+  {
+    "text": "Opinion formed",
+    "label": "set_completed"
+  },
+  {
+    "text": "Judgment made",
+    "label": "set_completed"
+  },
+  {
+    "text": "Decision made",
+    "label": "set_completed"
+  },
+  {
+    "text": "Thoughts clear",
+    "label": "set_completed"
+  },
+  {
+    "text": "Analysis ready",
+    "label": "set_completed"
+  },
+  {
+    "text": "Review ready",
+    "label": "set_completed"
+  },
+  {
+    "text": "Verdict decided",
+    "label": "set_completed"
+  },
+  {
+    "text": "Recommendation coming",
+    "label": "set_completed"
+  },
+  {
+    "text": "Would recommend",
+    "label": "set_completed"
+  },
+  {
+    "text": "Wouldn't recommend",
+    "label": "set_completed"
+  },
+  {
+    "text": "Tell others",
+    "label": "set_completed"
+  },
+  {
+    "text": "Share experience",
+    "label": "set_completed"
+  },
+  {
+    "text": "Spread word",
+    "label": "set_completed"
+  },
+  {
+    "text": "Tell friends",
+    "label": "set_completed"
+  },
+  {
+    "text": "Recommend to friends",
+    "label": "set_completed"
+  },
+  {
+    "text": "Suggest to others",
+    "label": "set_completed"
+  },
+  {
+    "text": "Pass along",
+    "label": "set_completed"
+  },
+  {
+    "text": "Next in line",
+    "label": "set_completed"
+  },
+  {
+    "text": "What to watch next",
+    "label": "set_completed"
+  },
+  {
+    "text": "Moving forward",
+    "label": "set_completed"
+  },
+  {
+    "text": "New anime time",
+    "label": "set_completed"
+  },
+  {
+    "text": "Add to my plan to watch",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "I want to watch this later",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Save this for later",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Add Naruto to plan to watch",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Mark as plan to watch",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "I'll watch this eventually",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Add to wishlist",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Put this on my to-watch",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Bookmark this for later",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "I want to see this",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Interested in watching",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Should watch",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Need to watch",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Must watch",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Will get to it",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Eventually watch",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Future watch",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Someday watch",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Want to watch",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Like to watch",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Interested",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Intrigued",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Curious about",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Want to see",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Looking forward",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Anticipating",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Excited to watch",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Can't wait to watch",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Eager to see",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Enthusiastic about",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Add to list",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "List this",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "On my list",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "In my list",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "List it",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Noted",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Remember this",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Don't forget",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Bookmark",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Favorite",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Star this",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Heart this",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Like this",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Save this",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Store this",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Keep this",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Hold onto this",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Preserve",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Retain",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Save for later",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Put aside",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Shelve temporarily",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Postpone",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Delay watching",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Push back",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Put off",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Defer",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Procrastinate",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Lazy watching",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Not now",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Maybe later",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "In future",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Down line",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Next batch",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Next round",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Second wave",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Later watch",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Off list",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "From queue",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Queued",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Pending",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Waiting",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "In waiting",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Under review",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Consideration",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Under consideration",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "To be determined",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "TBD",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Not yet",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Not sure",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Maybe",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Possibly",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Potentially",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Could watch",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Might watch",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Should consider",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Worth considering",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Think about",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Consider",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Worth it",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Worth the time",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Worth trying",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Worth giving shot",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Worth chance",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Deserves watch",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Merits watching",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Should give try",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Give it shot",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Chance needed",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "Opportunity",
+    "label": "set_plan_to_watch"
+  },
+  {
+    "text": "I dropped Attack on Titan",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Mark this as dropped",
+    "label": "set_dropped"
+  },
+  {
+    "text": "I'm not watching this anymore",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Remove from my list",
+    "label": "set_dropped"
+  },
+  {
+    "text": "I stopped watching this",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Set status to dropped",
+    "label": "set_dropped"
+  },
+  {
+    "text": "This anime is not for me",
+    "label": "set_dropped"
+  },
+  {
+    "text": "I'm dropping Bleach",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Mark anime as dropped",
+    "label": "set_dropped"
+  },
+  {
+    "text": "I quit watching this",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Not continuing",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Stopped midway",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Abandoned",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Gave up",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Quit",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Stopped",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Halted",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Suspended",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Ended prematurely",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Ended early",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Discontinued",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Terminated",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Canceling",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Cancelled watching",
+    "label": "set_dropped"
+  },
+  {
+    "text": "No longer watching",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Won't watch anymore",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Not continuing",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Done with this",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Finished with this",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Through with this",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Had enough",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Fed up",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Can't handle",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Too much",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Too boring",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Too slow",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Too fast",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Too violent",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Too sad",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Too happy",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Not my style",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Doesn't appeal",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Doesn't interest",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Lost interest",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Bored me",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Put me to sleep",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Couldn't focus",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Couldn't engage",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Couldn't connect",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Disconnected",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Off putting",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Turned off",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Turned away",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Repelled",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Not vibing",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Not clicking",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Not working",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Failed to engage",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Engagement failed",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Connection failed",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Chemistry off",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Wrong fit",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Bad match",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Incompatible",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Personality clash",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Conflicting",
+    "label": "set_dropped"
+  },
+  {
+    "text": "At odds",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Not aligning",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Misaligned",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Mismatch",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Mismatched",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Not what expected",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Different than expected",
+    "label": "set_dropped"
+  },
+  {
+    "text": "False advertising",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Misleading",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Not as advertised",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Overhyped",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Underperformed",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Disappointing",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Disappointed",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Let down",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Letdown",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Fell flat",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Flopped",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Failed delivery",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Failed promise",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Broken promise",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Not delivered",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Unfulfilled potential",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Wasted potential",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Poor execution",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Bad execution",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Failed execution",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Poorly made",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Badly made",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Terribly made",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Quality issues",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Quality problems",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Production issues",
+    "label": "set_dropped"
+  },
+  {
+    "text": "Budget constraints",
+    "label": "set_dropped"
+  },
+  {
+    "text": "I'm on hold with this anime",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Pause this for now",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Mark as on hold",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "I'm temporarily stopping",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Set to on hold",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "I'll watch this later",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Pause my watch",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Mark anime on pause",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "I'm taking a break from this",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Stop watching temporarily",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Hold up",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Hold on",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Putting on hold",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Placed on hold",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Temporarily suspended",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Suspended watching",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Paused watching",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Paused for now",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Indefinite pause",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Time out",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Taking time out",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Taking break",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Break time",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Break needed",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Need break",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Too much",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Overwhelming",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Need rest",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Rest needed",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Mental break",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Recovery period",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Recuperation",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Recharge",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Recharging",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Regaining energy",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Energy depleted",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Tired of it",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Exhausted",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Burned out",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Burnout phase",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Over stimulated",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Overstimulation",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Too intense",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Intensity overwhelming",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Emotionally draining",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Draining energy",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Emotionally taxing",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Taxing on mind",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Stressful",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Causes stress",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Anxiety inducing",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Triggers anxiety",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Too dark",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Too heavy",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Heavy content",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Dark content",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Depressing",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Makes me sad",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Sadness inducing",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Emotional toll",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Taking toll",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Need lighter content",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Need breather",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Breather needed",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Palette cleanser needed",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Need palette cleanser",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Mental palette reset",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Reset needed",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Come back later",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Back later",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Return later",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Future return",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Later resumption",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Resume later",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Pick up later",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Pick up where left off",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Unfinished business",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Return to",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Get back to",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Revisit",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Revisiting later",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Can't watch now",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Not ready",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Not in mood",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Wrong mood",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Wrong time",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Bad timing",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Ill timed",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Inappropriate timing",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Need right mindset",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Mindset not right",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Mental state",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Emotional state",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Not emotionally prepared",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Emotional preparation needed",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Need preparation",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Get ready first",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Prepare myself",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Fortify myself",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Gird myself",
+    "label": "set_on_hold"
+  },
+  {
+    "text": "Show me my anime list",
+    "label": "view_list"
+  },
+  {
+    "text": "What anime am I watching",
+    "label": "view_list"
+  },
+  {
+    "text": "Display my list",
+    "label": "view_list"
+  },
+  {
+    "text": "Show all my anime",
+    "label": "view_list"
+  },
+  {
+    "text": "What's on my list",
+    "label": "view_list"
+  },
+  {
+    "text": "Display watching list",
+    "label": "view_list"
+  },
+  {
+    "text": "Show my watched anime",
+    "label": "view_list"
+  },
+  {
+    "text": "Get my list",
+    "label": "view_list"
+  },
+  {
+    "text": "View my profile",
+    "label": "view_list"
+  },
+  {
+    "text": "Show completed anime",
+    "label": "view_list"
+  },
+  {
+    "text": "My entire collection",
+    "label": "view_list"
+  },
+  {
+    "text": "Full list",
+    "label": "view_list"
+  },
+  {
+    "text": "Complete collection",
+    "label": "view_list"
+  },
+  {
+    "text": "All anime I know",
+    "label": "view_list"
+  },
+  {
+    "text": "Everything I'm tracking",
+    "label": "view_list"
+  },
+  {
+    "text": "Catalog",
+    "label": "view_list"
+  },
+  {
+    "text": "Inventory",
+    "label": "view_list"
+  },
+  {
+    "text": "Browse my list",
+    "label": "view_list"
+  },
+  {
+    "text": "Look at list",
+    "label": "view_list"
+  },
+  {
+    "text": "Peek at list",
+    "label": "view_list"
+  },
+  {
+    "text": "Glance at list",
+    "label": "view_list"
+  },
+  {
+    "text": "Review list",
+    "label": "view_list"
+  },
+  {
+    "text": "Check list",
+    "label": "view_list"
+  },
+  {
+    "text": "Verify list",
+    "label": "view_list"
+  },
+  {
+    "text": "Confirm list",
+    "label": "view_list"
+  },
+  {
+    "text": "Authenticate list",
+    "label": "view_list"
+  },
+  {
+    "text": "Validate list",
+    "label": "view_list"
+  },
+  {
+    "text": "Establish list",
+    "label": "view_list"
+  },
+  {
+    "text": "List check",
+    "label": "view_list"
+  },
+  {
+    "text": "Status check",
+    "label": "view_list"
+  },
+  {
+    "text": "What's status",
+    "label": "view_list"
+  },
+  {
+    "text": "Status update",
+    "label": "view_list"
+  },
+  {
+    "text": "Current status",
+    "label": "view_list"
+  },
+  {
+    "text": "Show status",
+    "label": "view_list"
+  },
+  {
+    "text": "List status",
+    "label": "view_list"
+  },
+  {
+    "text": "Watching status",
+    "label": "view_list"
+  },
+  {
+    "text": "Completion status",
+    "label": "view_list"
+  },
+  {
+    "text": "Progress status",
+    "label": "view_list"
+  },
+  {
+    "text": "Where at",
+    "label": "view_list"
+  },
+  {
+    "text": "Where am I",
+    "label": "view_list"
+  },
+  {
+    "text": "Progress so far",
+    "label": "view_list"
+  },
+  {
+    "text": "Current progress",
+    "label": "view_list"
+  },
+  {
+    "text": "How far",
+    "label": "view_list"
+  },
+  {
+    "text": "How much watched",
+    "label": "view_list"
+  },
+  {
+    "text": "Episode count",
+    "label": "view_list"
+  },
+  {
+    "text": "Episodes watched",
+    "label": "view_list"
+  },
+  {
+    "text": "Episodes left",
+    "label": "view_list"
+  },
+  {
+    "text": "Remaining episodes",
+    "label": "view_list"
+  },
+  {
+    "text": "Show progress",
+    "label": "view_list"
+  },
+  {
+    "text": "Display progress",
+    "label": "view_list"
+  },
+  {
+    "text": "Track progress",
+    "label": "view_list"
+  },
+  {
+    "text": "Progress tracking",
+    "label": "view_list"
+  },
+  {
+    "text": "Ongoing tracking",
+    "label": "view_list"
+  },
+  {
+    "text": "Active tracking",
+    "label": "view_list"
+  },
+  {
+    "text": "What's ongoing",
+    "label": "view_list"
+  },
+  {
+    "text": "Ongoing series",
+    "label": "view_list"
+  },
+  {
+    "text": "Series in progress",
+    "label": "view_list"
+  },
+  {
+    "text": "In progress anime",
+    "label": "view_list"
+  },
+  {
+    "text": "Currently airing",
+    "label": "view_list"
+  },
+  {
+    "text": "Airing now",
+    "label": "view_list"
+  },
+  {
+    "text": "New releases",
+    "label": "view_list"
+  },
+  {
+    "text": "Recently added",
+    "label": "view_list"
+  },
+  {
+    "text": "Latest additions",
+    "label": "view_list"
+  },
+  {
+    "text": "Newest entries",
+    "label": "view_list"
+  },
+  {
+    "text": "Fresh additions",
+    "label": "view_list"
+  },
+  {
+    "text": "Recent updates",
+    "label": "view_list"
+  },
+  {
+    "text": "Just added",
+    "label": "view_list"
+  },
+  {
+    "text": "When added",
+    "label": "view_list"
+  },
+  {
+    "text": "Most recent",
+    "label": "view_list"
+  },
+  {
+    "text": "Sorting chronologically",
+    "label": "view_list"
+  },
+  {
+    "text": "Chronological order",
+    "label": "view_list"
+  },
+  {
+    "text": "By date",
+    "label": "view_list"
+  },
+  {
+    "text": "Date sorted",
+    "label": "view_list"
+  },
+  {
+    "text": "Timeline",
+    "label": "view_list"
+  },
+  {
+    "text": "Timeline view",
+    "label": "view_list"
+  },
+  {
+    "text": "Historical view",
+    "label": "view_list"
+  },
+  {
+    "text": "Past entries",
+    "label": "view_list"
+  },
+  {
+    "text": "Old entries",
+    "label": "view_list"
+  },
+  {
+    "text": "Oldest entries",
+    "label": "view_list"
+  },
+  {
+    "text": "First additions",
+    "label": "view_list"
+  },
+  {
+    "text": "Initial entries",
+    "label": "view_list"
+  },
+  {
+    "text": "Starting point",
+    "label": "view_list"
+  },
+  {
+    "text": "Since beginning",
+    "label": "view_list"
+  },
+  {
+    "text": "Since start",
+    "label": "view_list"
+  },
+  {
+    "text": "Since when",
+    "label": "view_list"
+  },
+  {
+    "text": "How long",
+    "label": "view_list"
+  },
+  {
+    "text": "Duration tracked",
+    "label": "view_list"
+  },
+  {
+    "text": "Time invested",
+    "label": "view_list"
+  },
+  {
+    "text": "Hours watched",
+    "label": "view_list"
+  },
+  {
+    "text": "Total hours",
+    "label": "view_list"
+  },
+  {
+    "text": "Cumulative hours",
+    "label": "view_list"
+  },
+  {
+    "text": "Minutes watched",
+    "label": "view_list"
+  },
+  {
+    "text": "Total minutes",
+    "label": "view_list"
+  },
+  {
+    "text": "Days worth",
+    "label": "view_list"
+  },
+  {
+    "text": "Weeks worth",
+    "label": "view_list"
+  },
+  {
+    "text": "Months worth",
+    "label": "view_list"
+  },
+  {
+    "text": "Years worth",
+    "label": "view_list"
+  },
+  {
+    "text": "Time spent",
+    "label": "view_list"
+  },
+  {
+    "text": "Time dedication",
+    "label": "view_list"
+  },
+  {
+    "text": "Commitment shown",
+    "label": "view_list"
+  }
+]

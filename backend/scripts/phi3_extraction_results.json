@@ -1,0 +1,68 @@
+[
+  {
+    "test": "Test 1: Simple JSON",
+    "success": true,
+    "anime_name": "Naruto",
+    "status": "watching_list",
+    "response": "```json\n\n{\n\n  \"anime_name\": \"Naruto\",\n\n  \"status\": \"watching_list\"\n\n}\n\n```"
+  },
+  {
+    "test": "Test 2: Format Specified",
+    "success": true,
+    "anime_name": "Death Note",
+    "status": "completed",
+    "response": "{\"anime_name\": \"Death Note\", \"status\": \"completed\"}"
+  },
+  {
+    "test": "Test 3: Step by Step",
+    "success": true,
+    "anime_name": "Sousou no Frieren",
+    "status": "planned",
+    "response": "{\"anime_name\": \"Sousou no Frieren\", \"status\": \"planned\"}"
+  },
+  {
+    "test": "Test 4: Multiple Examples",
+    "success": true,
+    "anime_name": null,
+    "status": "dropped",
+    "response": "{\"anime_*\": \"Attack on Titan\", \"status\": \"dropped\"}"
+  },
+  {
+    "test": "Test 5: Key-Value",
+    "success": false,
+    "response": "anime_name: Pokemon\nstatus: on_hold"
+  },
+  {
+    "test": "Test 6: XML-like",
+    "success": false,
+    "response": "<anime>Jujutsu Kaisen</anime>\n<status>on_hold</status>"
+  },
+  {
+    "test": "Test 7: Instruction Based",
+    "success": true,
+    "anime_name": "Code Geass",
+    "status": "plan_to_watch",
+    "response": "```json\n\n{\n\n  \"anime_name\": \"Code Geass\",\n\n  \"status\": \"plan_to_watch\"\n\n}\n\n```"
+  },
+  {
+    "test": "Test 8: Chat Format",
+    "success": true,
+    "anime_name": "Steins;Gate",
+    "status": "watching",
+    "response": "{\"anime_name\": \"Steins;Gate\", \"status\": \"watching\"}"
+  },
+  {
+    "test": "Test 9: Regex-like",
+    "success": true,
+    "anime_name": null,
+    "status": null,
+    "response": "{\"anime_*name*\": \"Full Metal Alchemist\", \"anime_status\": \"completed\"}"
+  },
+  {
+    "test": "Test 10: Zero-shot",
+    "success": true,
+    "anime_name": "Vinland Saga",
+    "status": "dropped",
+    "response": "```json\n\n{\"anime_name\": \"Vinland Saga\", \"status\": \"dropped\"}\n\n```"
+  }
+]
