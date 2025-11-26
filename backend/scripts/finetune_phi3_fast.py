@@ -87,10 +87,10 @@ print("\n🔧 Preparing model for LoRA fine-tuning...")
 # Prepare model for k-bit training (required for LoRA + quantization)
 model = prepare_model_for_kbit_training(model)
 
-# LoRA configuration (ONLY trains ~1-2% of parameters!)
+# LoRA configuration (ONLY trains ~10%) of parameters!)
 lora_config = LoraConfig(
-    r=16,                          # LoRA rank (higher = more parameters, slower)
-    lora_alpha=32,                 # LoRA scaling
+    r=200,                          # LoRA rank (higher = more parameters, slower)
+    lora_alpha=400,                 # LoRA scaling
     target_modules=[               # Which layers to apply LoRA
         "q_proj",
         "k_proj",
